@@ -1,6 +1,6 @@
 function updateTitle() {
 
-    var videoID = 'OHR47VYV5nI'; // https://youtu.be/OHR47VYV5nI
+    var videoID = 'OHR47VYV5nI'; // https://youtu.be/OHR47VYV5nI //this videoID is unique for every video
     var part = 'snippet,statistics';
     var params = {'id': videoID};
   
